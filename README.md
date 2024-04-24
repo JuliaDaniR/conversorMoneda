@@ -31,7 +31,9 @@ Este es un programa simple de Java para convertir monedas.
                   Contiene atributos como el nombre de la moneda, su código ISO, y
                   métodos para obtener y establecer estos atributos, así como cualquier
                   funcionalidad relacionada con la moneda en el sistema.
-  - `Principal.java`: Clase principal que inicia el programa.
+  - `RegistroConversion.java`: Clase que registra las conversiones realizadas, incluyendo información
+                               sobre la moneda base, la moneda de destino, el valor convertido y la marca de tiempo.
+  - `Principal.java`: Clase principal que inicia el programa y maneja el flujo principal de ejecución.
 - **resources**: No contiene archivos adicionales.
 - **docs**:No contiene documentación adicional o archivos relacionados con el proyecto.
 
