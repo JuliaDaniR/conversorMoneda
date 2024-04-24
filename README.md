@@ -27,7 +27,7 @@ Este es un programa simple de Java para convertir monedas.
   - `Menu.java`: Clase que maneja la interfaz de usuario y las opciones del menú.
   - `Conversion.java`: Clase que realiza las conversiones de moneda.
   - `ConsultaApi.java`: Se realiza la consulta a la "Exchange Rate API".
-  -`Moneda.java`: Clase que representa una moneda en el sistema de conversión de moneda.
+  - `Moneda.java`: Clase que representa una moneda en el sistema de conversión de moneda.
                   Contiene atributos como el nombre de la moneda, su código ISO, y
                   métodos para obtener y establecer estos atributos, así como cualquier
                   funcionalidad relacionada con la moneda en el sistema.
