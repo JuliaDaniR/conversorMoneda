@@ -32,7 +32,7 @@ Este es un programa simple de Java para convertir monedas.
                   métodos para obtener y establecer estos atributos, así como cualquier
                   funcionalidad relacionada con la moneda en el sistema.
   - `Principal.java`: Clase principal que inicia el programa.
-- **resources**: Contiene recursos adicionales como archivos de configuración o datos.
-- **docs**: Documentación adicional o archivos relacionados con el proyecto.
+- **resources**: No contiene archivos adicionales.
+- **docs**:No contiene documentación adicional o archivos relacionados con el proyecto.
 
 
